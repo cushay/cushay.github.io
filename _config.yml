@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Homepage - Christopher Ushay
-description: Welcome to my website!
+# description: 
 header_pages:
   - about.md
   - portfolio.md
