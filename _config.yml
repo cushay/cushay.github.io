@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: Homepage - Christopher Ushay
+title: Homepage
 # description: 
 header_pages:
   - about.md
-  - portfolio.md
+  - research.md
