@@ -70,11 +70,11 @@ copyright = "&copy;2024 Christopher Ushay"
 
       [[params.links.list2.link]]
         text = "Twitter"
-        url = "#"
+        url = "https://twitter.com/CMUshay/"
 
       [[params.links.list2.link]]
         text = "Instagram"
-        url = "#"
+        url = "https://www.instagram.com/itsalongu/"
 
   # Links List #3
   [[params.links]]
