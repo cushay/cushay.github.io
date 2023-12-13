@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://cushay.github.io"
 languageCode = "en-US"
-title = "Split - HTML Template Demo"
+title = "Christopher Ushay"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
