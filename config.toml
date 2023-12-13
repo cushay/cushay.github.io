@@ -19,8 +19,8 @@ copyright = "&copy;2024 Christopher Ushay"
 
   # Metadata for search engines and social sharing
   author = "Christopher Ushay"
-  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
-  shareImage = "images/social.jpg"
+  # description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
+  # shareImage = "images/social.jpg"
   twitterHandle = "cmushay"
 
   # Favicon
@@ -47,20 +47,20 @@ copyright = "&copy;2024 Christopher Ushay"
   # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "Connect"
+      heading = "Portfolio"
 
       [[params.links.list1.link]]
-        text = "Blog"
+        text = "About Me"
         url = "#"
         new_tab = true # new tab
 
       [[params.links.list1.link]]
-        text = "Email"
+        text = "Research"
         url = "#"
         new_tab = false # Default, open at same tab
 
       [[params.links.list1.link]]
-        text = "Newsletter"
+        text = "CV"
         url = "#"
 
   # Links List #2
@@ -74,10 +74,6 @@ copyright = "&copy;2024 Christopher Ushay"
 
       [[params.links.list2.link]]
         text = "Instagram"
-        url = "#"
-
-      [[params.links.list2.link]]
-        text = "Dribbble"
         url = "#"
 
   # Links List #3
