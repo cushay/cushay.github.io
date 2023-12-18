@@ -51,12 +51,12 @@ copyright = "&copy;2024 Christopher Ushay"
 
       [[params.links.list1.link]]
         text = "About Me"
-        url = "christopherushay.com/about/"
+        url = "/about/"
         new_tab = false
 
       [[params.links.list1.link]]
         text = "Research"
-        url = "christopherushay.com/research/"
+        url = "/research/"
         new_tab = false
 
       [[params.links.list1.link]]
