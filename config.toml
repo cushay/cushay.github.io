@@ -68,9 +68,9 @@ copyright = "&copy;2024 Christopher Ushay"
     [params.links.list2]
       heading = "Connect"
 
-      #[[params.links.list2.link]]
-        #text = "Email"
-        #url = "ushayc@gmail.com"
+      [[params.links.list2.link]]
+        #text = "Google Scholar"
+        #url = "https://scholar.google.com/citations?user=zEDX6jIAAAAJ&hl=en&oi=ao"
         #new_tab = false
 
       [[params.links.list2.link]]
@@ -80,25 +80,25 @@ copyright = "&copy;2024 Christopher Ushay"
 
       [[params.links.list2.link]]
         text = "Instagram"
-        url = "https://www.instagram.com/itsalongu/"
+        url = "https://instagram.com/itsalongu/"
         new_tab = true
 
   # Links List #3
-  [[params.links]]
-    [params.links.list3]
-      heading = "Network"
+  # [[params.links]]
+  #  [params.links.list3]
+  #    heading = "Network"
 
-      [[params.links.list3.link]]
-        text = "Link One"
-        url = "#"
+  #    [[params.links.list3.link]]
+  #      text = "Link One"
+  #      url = "#"
 
-      [[params.links.list3.link]]
-        text = "Link Two"
-        url = "#"
+  #    [[params.links.list3.link]]
+  #      text = "Link Two"
+  #      url = "#"
 
-      [[params.links.list3.link]]
-        text = "Link Three"
-        url = "#"
+  #    [[params.links.list3.link]]
+  #      text = "Link Three"
+  #      url = "#"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
