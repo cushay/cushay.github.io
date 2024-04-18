@@ -1,5 +1,5 @@
 +++
-title = "Science | Technology | Education | Design"
+title = "Science | Technology | Education"
 tagline = "Christopher Ushay"
 +++
 
