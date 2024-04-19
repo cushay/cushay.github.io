@@ -24,7 +24,7 @@ copyright = "&copy;2024 Christopher Ushay"
   twitterHandle = "cmushay"
 
   # Favicon
-  favicon = "favicon.svg"
+  favicon = "favicon.ico"
 
   # Section - Visual
   [params.visual]
